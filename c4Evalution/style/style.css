@@ -1,0 +1,22 @@
+
+#navbar{
+    margin: 25px;
+}
+
+#inb{
+    display: flex;
+    justify-content: space-between;
+
+
+}
+
+#query{
+    width: 80%;
+    height: 35px;
+    border-radius: 15px;
+    font-size: 30px;
+}
+
+#country{
+    font-size: 20px;
+}
